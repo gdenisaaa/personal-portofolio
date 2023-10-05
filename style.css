@@ -336,6 +336,9 @@ nav ul .fa-solid{
 .copyright{
     font-size: 14px;
 }
+form .btn2{
+    background: transparent;
+}
 }
 #msg{
     text-align: center;
