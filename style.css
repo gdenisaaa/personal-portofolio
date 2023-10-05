@@ -336,10 +336,11 @@ nav ul .fa-solid{
 .copyright{
     font-size: 14px;
 }
-form .btn2{
-    background: transparent;
+.btn:hover::before{
+    background: #c5b171;
 }
 }
+
 #msg{
     text-align: center;
     color: #257616;
